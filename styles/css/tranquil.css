@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .inverse:hover,
 .inverse:focus {
-	color: #C39F67 !important;
+	color: #082844 !important;
 }
 
 .tranquil-body a:hover,
@@ -63,7 +63,7 @@ a.inverse-noactive {
 
 a.noactive:hover,
 a.noactive:focus {
-	color: #C39F67;
+	color: #082844;
 }
 
 .white {
@@ -124,7 +124,7 @@ a.noactive:focus {
 
 .post-category {
 	text-transform: uppercase;
-	color: #C39F67;
+	color: #082844;
 }
 
 .post-category-large {
@@ -174,7 +174,7 @@ a.noactive:focus {
 }
 
 .btn-more {
-	background: #C39F67;
+	background: #082844;
 	color: #fff;
 	border-color: #ddd;
 	padding: 5px 22px 6px;
@@ -201,12 +201,12 @@ i.tags {
 }
 
 a.tags {
-	color: #C39F67;
+	color: #082844;
 	margin-right: 1px;
 	text-transform: lowercase;
 	border-radius: 2px;
 	padding: 3px 5px;
-	border: 1px solid #C39F67;
+	border: 1px solid #082844;
 	background: #f5f5f5;
 	display: inline-block;
 	margin-top: 3px;
@@ -422,7 +422,7 @@ a.comments {
 .post-content th {
 	color: #fff;
 	padding: 5px;
-	background: #C39F67;
+	background: #082844;
 	text-transform: uppercase;
 	text-align: center;
 	border: 1px solid #e5b4a3;
@@ -431,7 +431,7 @@ a.comments {
 .post-content td {
 	padding: 5px 20px;
 	background-color: #f5f5f5;
-	border: 1px solid #C39F67;
+	border: 1px solid #082844;
 }
 
 pre code {
